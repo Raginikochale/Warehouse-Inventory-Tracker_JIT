@@ -1,5 +1,3 @@
-package main.java.warehouse;
-
 public class Product {
         private final String id;
         private final String name;
