@@ -11,7 +11,7 @@ A Simple **Java application** to simulate an event-driven warehouse inventory tr
 - Proper error handling for invalid product IDs and insufficient stock.
 
   ## Key Concepts
-- *OOP Principles*: Encapsulation, abstraction, loose coupling.
-- *Collections*: HashMap for products, ArrayList for observers.
-- *Design Pattern*: Observer pattern for event-driven alerts.
-- *Error Handling*: Graceful messages for invalid operations.
+- **OOP Principles**: Encapsulation, abstraction, loose coupling.
+- **Collections**: HashMap for products, ArrayList for observers.
+- **Design Pattern**: Observer pattern for event-driven alerts.
+- **Error Handling**: Graceful messages for invalid operations.
